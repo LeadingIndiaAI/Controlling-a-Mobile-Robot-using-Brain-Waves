@@ -1,2 +1,9 @@
-# Controlling-a-Mobile-Robot-using-Brain-Waves
-When people suffer from neuro motor disability, they are in a condition where they are unable to perform any action due to paralysis in the body. In most cases, the can control the eye movement but, in some cases, only the brain is active. The people who are suffering from such disorder may not be able to communicate properly through voice. The only way in which they can communicate is through their thoughts or mind. The EEG signals helps in reading the brain activity and now through this input, we can analyse and understand that person. In this project, the EEG signals captured through the device called Neurosky Mindwave has been used to control the left, right, forward and backward movement of a Robot.
+# `Neurosky Mindwave Mobile 2 headset controlled Mobile Robot`
+
+@Developer's': 
+                Mexson Fernandes
+                Sandeep Kumar singh, 
+                Kaustubh Prabhu, 
+                Dinesh Sharma
+
+Developer's Message:: Thanks for using it. Do give your valuable feedback or for any query contact at kaustubhprabhu98@gmail.com, sandeepsingh.nita@gmail.com. Till then,#Happy Coding;
